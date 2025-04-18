@@ -130,6 +130,7 @@ const styles = StyleSheet.create({
     color: '#130E01',
     marginVertical: 10,
     fontWeight: 'bold',
+    textAlign: 'center',
   },
   googleButton: {
     flexDirection: 'row',
