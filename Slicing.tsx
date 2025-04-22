@@ -25,7 +25,6 @@ const Slicing: React.FC = () => {
       <Image
         source={require('./assets/calico_header.png')}
         style={styles.header}
-        resizeMode="contain"
       />
       <Text style={styles.title}>Sign Up</Text>
 
